@@ -10,5 +10,5 @@ Ela conta com:
   *Mobile (React-native, Expo)
   
 Este projeto é uma pagina na qual ONGs podem cadastrar casos para
-solicitar auxilo financeiro.
+solicitar auxilio financeiro.
 Conta com APP mobile que chama diretamente envio por email e Whatsapp.
